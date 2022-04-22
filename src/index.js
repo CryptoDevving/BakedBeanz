@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { WalletConnectConnector, URI_AVAILABLE  } from '@web3-react/walletconnect-connector'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
